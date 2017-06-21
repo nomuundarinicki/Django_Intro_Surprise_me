@@ -1,0 +1,12 @@
+#wrapper {
+    height: 800px;
+    width: 800px;
+    padding: 50px;
+    background-color:pink;
+}
+footer {
+    margin-top: 100px;
+    text-align: center;
+    font-size: 8px;
+    font-family: Arial,
+}
